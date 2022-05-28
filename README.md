@@ -1,5 +1,5 @@
 # Привет
-## Текущий прогресс (тут)[https://github.com/TheJuliana/golang-learning]
+## Текущий прогресс [тут](https://github.com/TheJuliana/golang-learning)
 ## Обо мне
 Люблю котиков и программирование
 ## Цель изучения
